@@ -93,7 +93,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>${project.groupId}.${project.ArtifactId}</mainClass>
+              <mainClass>${project.groupId}.${project.artifactId}</mainClass>
             </manifest>
           </archive>
         </configuration>
